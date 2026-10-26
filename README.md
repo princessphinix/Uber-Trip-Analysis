@@ -15,8 +15,6 @@ This project focuses on analyzing Uber trip data using **Microsoft Power BI** to
 
 ## 🛠️ Tools & Technologies
 
--
-
 * **Microsoft Power BI** – Dashboard development and data visualization
 * **Power Query** – Data cleaning and transformation
 * **DAX** – Measures, calculations, and dynamic visualizations
